@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+
+  {% include head.html %}
+
+  <body>
+    <div class="container">
+      <header class="masthead">
+        <i class="fa fa-bars menu" aria-hidden="true"></i>
+        <a href="{{ site.baseurl }}/" title="Home">
+          <img src="{{ site.baseurl }}/assets/img/adaoraul.png" alt="Adão Raul">
+        </a>
+      </header>
+      
+      {% include sidebar.html %}
+      
+      <main>
+        {{ content }}
+      </main>
+      
+      {% include footer.html %}
+    </div>
+  </body>
+</html>
