@@ -105,19 +105,28 @@ hr {
 @media (min-width: 300px) and (max-width: 700px) {
   i.menu {
     display: inline-block;
+    cursor: pointer;
   }
   
   nav.sidebar {
     display: none;
+    text-align: center;
+  }
+  
+  
+  nav.sidebar.show {
+    display: block;
   }
   
   nav.sidebar .author .avatar {
-    float: left;
+    display: block;
+    margin: 0 auto;
   }
   
   nav.sidebar .author .content {
+    width: 100%;
     float: left;
-    padding-left: 10px;
+    padding: 10px 0;
   }
   
   nav.sidebar .author .content .social-buttons li {
