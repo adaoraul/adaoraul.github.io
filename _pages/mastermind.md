@@ -6,6 +6,8 @@ permalink: mastermind.html
 
 # Mastermind Challenge
 
+See on github - [http://github.com/adaoraul/mastermind](http://github.com/adaoraul/mastermind)
+
 ## API cURL Test
 [![asciicast](https://asciinema.org/a/46373.png)](https://asciinema.org/a/46373)
 
