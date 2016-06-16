@@ -4,7 +4,7 @@ title: Discord OAuth2 Strategy for OmniAuth
 permalink: omniauth-discord.html
 ---
 
-# OmniAuth Discord 
+# OmniAuth Discord [![GitHub stars](https://img.shields.io/github/stars/adaoraul/omniauth-discord.svg?style=social&label=Star&maxAge=2592000)](https://github.com/adaoraul/omniauth-discord)
 
 Discord OAuth2 Strategy for OmniAuth.
 
